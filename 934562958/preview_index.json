@@ -1,7 +1,7 @@
 {
   "qq_number": "2709502478",
   "group_number": "934562958",
-  "updated_at": "2026-04-23T15:52:35.472950",
+  "updated_at": "2026-07-10T08:30:29+00:00",
   "skins": [
     {
       "name": "雨滴 啵啵",
@@ -218,6 +218,12 @@
       "file": "猫咪气①.bds",
       "thumb": "猫咪气①.bds_py_26_light_thumb.png",
       "full": "猫咪气①.bds_py_26_light.png"
+    },
+    {
+      "name": "山空一芜 闷闷",
+      "file": "山空一芜闷闷.bdi",
+      "thumb": "山空一芜闷闷.bdi_py_26_light_thumb.png",
+      "full": "山空一芜闷闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
