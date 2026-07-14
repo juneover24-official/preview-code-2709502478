@@ -1,7 +1,7 @@
 {
   "qq_number": "2709502478",
   "group_number": "934562958",
-  "updated_at": "2026-07-13T06:33:05+00:00",
+  "updated_at": "2026-07-14T08:43:33+00:00",
   "skins": [
     {
       "name": "雨滴 啵啵",
@@ -260,6 +260,12 @@
       "file": "山空一芜闷闷.bds",
       "thumb": "山空一芜闷闷.bds_py_26_light_thumb.png",
       "full": "山空一芜闷闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "仿ios大字版 版本二",
+      "file": "仿ios大字版版本二.bds",
+      "thumb": "仿ios大字版版本二.bds_py_26_light_thumb.png",
+      "full": "仿ios大字版版本二.bds_py_26_light_thumb.png"
     }
   ]
 }
