@@ -1,7 +1,7 @@
 {
   "qq_number": "2709502478",
   "group_number": "934562958",
-  "updated_at": "2026-09-29T07:27:17+00:00",
+  "updated_at": "2026-09-30T08:10:40+00:00",
   "skins": [
     {
       "name": "雨滴 啵啵",
@@ -290,6 +290,13 @@
       "file": "桔梗_猫笺兔语②.bds",
       "thumb": "桔梗_猫笺兔语②.bds_py_26_light_thumb.png",
       "full": "桔梗_猫笺兔语②.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "库洛米②",
+      "file": "库洛米②.bds",
+      "thumb": "库洛米②.bds_py_26_light_thumb.png",
+      "full": "库洛米②.bds_py_26_light_thumb.png",
+      "file_id": "dd6c50db4c4139f7c1be1aada8816987"
     }
   ]
 }
