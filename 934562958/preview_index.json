@@ -1,7 +1,7 @@
 {
   "qq_number": "2709502478",
   "group_number": "934562958",
-  "updated_at": "2026-11-10T08:37:36+00:00",
+  "updated_at": "2026-11-10T08:37:41+00:00",
   "skins": [
     {
       "name": "雨滴 啵啵",
@@ -334,6 +334,12 @@
       "file": "心事寄存①.bds",
       "thumb": "心事寄存①.bds_py_26_light_thumb.png",
       "full": "心事寄存①.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "桔梗|心事寄存②",
+      "file": "心事寄存②.bds",
+      "thumb": "心事寄存②.bds_py_26_light_thumb.png",
+      "full": "心事寄存②.bds_py_26_light_thumb.png"
     }
   ]
 }
